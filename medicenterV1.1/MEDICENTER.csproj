@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Proyecto de consola principal de MEDICENTER -->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>MEDICENTER</RootNamespace>
+    <AssemblyName>MEDICENTER</AssemblyName>
+  </PropertyGroup>
+
+</Project>
